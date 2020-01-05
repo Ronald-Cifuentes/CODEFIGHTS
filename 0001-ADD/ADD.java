@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class E0001ADD {
+public class ADD {
 
     public static void main(String[] args) {
         JOptionPane.showMessageDialog(null,add(1,2));
